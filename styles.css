@@ -1,0 +1,97 @@
+.logo {
+    border: 3px ridge gold;
+    margin: auto;
+    width: 100px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'lobster';
+}
+
+.burna {
+    width: 200px;
+    height: 200px;
+}
+
+.guy {
+    width: 200px;
+    height: 200px;
+}
+
+.giant {
+    width: 200px;
+    height: 200px;
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+
+}
+
+.gold-frame {
+    border: 10px ridge gold;
+    padding: 5px;
+}
+
+img {
+    margin: 8px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'lobster';
+    color: green;
+}
+
+.box {
+    border: 3px solid gold;
+    margin: auto;
+    width: 50%;
+    padding: 5px;
+}
+
+.who {
+    text-align: center;
+    color: black;
+    font-family: 'Fraunces';
+}
+
+.design {
+    border: 3px solid white;
+    margin: 20px;
+    width: 95%;
+    padding: 10px;
+}
+
+.him {
+    width: 200px;
+    height: 200px;
+}
+
+.card {
+    width: 200px;
+    
+}
+
+.music {
+    display: flex;
+    justify-content: center;
+    justify-content:space-around;
+}
+
+.container{
+    font-family: 'lobster';
+}
+
+.button {
+    background-color: gold;
+    border-color: pink;
+}
+
+a:hover {
+    background-color: #ddd;
+}
